@@ -1,0 +1,44 @@
+# Project Specific #
+# ================ #
+[Hh]igh_poly/
+# =============== #
+# Unity generated #
+# =============== #
+UnityGenerated/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/ 
+[Bb]uild/
+[Bb]uilds/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon\r\r
+ehthumbs.db
+Thumbs.db
+# ============ #
+# Blender Dumb #
+# ============ #
+*.blend1
+*.blend2
+*.blend3
